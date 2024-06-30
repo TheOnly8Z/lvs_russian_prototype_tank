@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models\8z\lvs\russian_prototype_tank\proto_treads"
+	"$bumpmap"		"models\8z\lvs\russian_prototype_tank\proto_treads_n"
+	"$halflambert" "1"				
+	"$nocull" "1"
+	"$translucent"			"1"
+}

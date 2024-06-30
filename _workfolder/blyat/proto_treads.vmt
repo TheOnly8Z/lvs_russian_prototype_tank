@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models\8z\lvs\russian_prototype_tank\proto_treads"
+	"$bumpmap"		"models\8z\lvs\russian_prototype_tank\proto_treads_n"
+	"$nocull"	"1"
+	"$phong"	"1"
+	"$phongexponent"	"25"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.15"
+	"$phongfresnelranges"	"[1 2 3]"
+}
